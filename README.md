@@ -8,5 +8,5 @@ When the secretNumber is met, then a user would be greeted with a succes screen!
 
 To make things challenging, every wrong guess also deducts your existing points. (You will start with 20 points)
 
-<img src="https://i.imgur.com/FjBELW8.png">
-<img src ="https://i.imgur.com/N0yN2Nm.png">
+<img src="https://i.imgur.com/FjBELW8.png" width="700">
+<img src ="https://i.imgur.com/N0yN2Nm.png" width="700">
